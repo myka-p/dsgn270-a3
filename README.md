@@ -3,7 +3,7 @@ Assignment 3 - SVG Logo Design
 
 author: Myka Peligrino
 
-GH Pages:
+GH Pages: https://myka-p.github.io/dsgn270-a3/
 
 Figma: https://www.figma.com/file/tG5Sdvy982p04FjDDB5fFk/CPNT270-A3-Myka?node-id=0%3A1
 
